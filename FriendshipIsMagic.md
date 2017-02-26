@@ -33,7 +33,7 @@
 * Manehattan
 * Fillydelphia
 * Trottingham
-* Las Pegasus
+* Las Pegasus (Requires flying)
 * Baltimare
 * Fluttervalley (Flutterpony startingpoint)
 * Tartarus (Unavailable as starting point, unless escaped prisoner)
@@ -46,7 +46,7 @@
 * Galloping Gorge
 * Foal Mountain
 * Tall Tale
-* Breezie Village
+* Breezie Village (Unavailable as startingpoint)
 * Seaward Shoals (Sea Horse startingpoint)
 
 ### Sights
@@ -63,7 +63,16 @@
 * Flame Geyser Swamp
 
 ### Backstory of Equestria
-The world of Canterlot has seen a lot of strife in its time. For many years it was protected diligently by the six bearers of Harmony: Twilight Sparkle, Applejack, Rarity, Rainbow Dash, Fluttershy and Pinkie Pie. This was done under the leadership of the three Alicorns, Celestia, Luna and Cadance, that at the time was ruling over equestria. Ever since the alicorns transcended into true gods, the six former heroes of Equestria has had to take their place. The six ponies have taken up residence in Canterlot, serving as the ruling council of Canterlot. They each have a bigger city which they oversee personally as its warden and can often be seen there on routine visits. With the leadership of the country and other royal duties, the six ponies has not been able to keep up with the evil taking root in the shadows. 
+The world of Canterlot has seen a lot of strife in its time. For many years it was protected diligently by the six bearers of Harmony: Twilight Sparkle, Applejack, Rarity, Rainbow Dash, Fluttershy and Pinkie Pie. This was done under the leadership of the three Alicorns, Celestia, Luna and Cadance, that at the time was ruling over equestria. It's been 50 years since those days, and the roles have changed for the rulers and heroes of Equestria. The alicorns has since transcended into true gods, and the six former heroes of Equestria has had to take their place. The six ponies have taken up residence in Canterlot, serving as the ruling council of Canterlot. No one questioned their ascencion to the throne, they were wellknown protector of peace and friendship. The six each have a bigger city or location which they oversee personally as its warden and can often be seen there on routine visits. 
+
+* Twilight Sparkle has most influence in Canterlot, and therefore serves as its warden. She always makes sure that the Library in the city is stocked with the most informational books, all of sorted meticulously according to the Dewey Decimal system.
+* Applejack has the most connection to their old hometown of Ponyville, and therefore serves as its warden. She makes sure that the Everfree forest is not causing too much problems and oversees the harvest of apples, sometimes being seen helping out personally.
+* Rarity connected the most with the Crystal ponies in the Crystal Empire, and therefore serves as its warden. She has a base of operations of clothes manufacturing located there and makes sure to keep it, and in extension the citizens of the city, safe.
+* Rainbow Dash grew up in Cloudsdale, and is therefore its warden. She always flies by and helps the weatherponies keep the clouds and in check, as well as protected it from any flying pests that happens to find it.
+* Fluttershy made friends with the guardian of Tartarus, and is therefore its warden. She always visits the threeheaded guardian Cerberus and makes sure that there has been no escapees.
+* Pinkie Pie was always a fan of the party life in Las Pegasus, and is therefore its warden. She always makes sure that there is no cheating on either side of the gambling table, and that every venue has access to the best of baked goods.
+
+With the leadership of the country and other royal duties, the six ponies has not been able to keep up with the evil taking root in the shadows. 
 
 ## Religion
 ### Gods considered good
