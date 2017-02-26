@@ -17,8 +17,11 @@ Same rules as Spriter's
 * Pegasi Pony: +2 Dexterity, +2 Wisdom, and -2 Strength
 * Unicorn Pony: +2 Charisma, +2 Intelligence, and -2 Dexterity
 
+* A ponykind character choosen to be Earthbound, Unicorn or Pegasi, and can optionally pick one of the subtypes: Clockwork, Changeling, Crystal Pony, Sea Horse, Zebra or Kirin
+  * A changeling can change its appearance to another type, but not its stats or abilities (A unicorn changeling disguised as a pegasus cannot fly, but can use its invisible horn for magic)
+
 ### Equipment
-* Shield wielded attatched to the leg by earthbound and pegasi 
+* Shield wielded attatched to the leg by earthbound and pegasi (Unicorns has to use Practiced or Advanced horn magic feats)
   * Dex-based checks are reduced by the Base AC bonus
   * Masterwork reduces the penalty by one, so a shield with 2 AC would only cause -1 to dex-based checks.
 
