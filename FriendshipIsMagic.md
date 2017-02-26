@@ -106,4 +106,4 @@ With the leadership of the country and other royal duties, the six ponies has no
 * Pinkie Pie - Warden of Las Pegasus
 
 ### Description
-The creatures in Equestria aren't usually considered religious, it's more of just a fact of a creature that exists, that you identify with. In fact, for most of the years that Equestria existed, there wasn't even anything that would be considered a god, much less something to be worshipped. But since the transcendance of the Alicorns, there has popped up a couple of places of holy worship, for those that are so inclined.
+The creatures in Equestria aren't usually considered religious, it's more of just a fact of a creature that exists ethereally, that you identify with. In fact, for most of the years that Equestria existed, there wasn't even anything that would be considered a god, much less something to be worshipped. But since the transcendance of the Alicorns, there has popped up a couple of places of holy worship, for those that are so inclined.
