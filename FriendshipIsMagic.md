@@ -11,15 +11,16 @@ Same rules as Spriter's
 * 20000g starting gold
 * First lvl HP = HD * 4, following levels is average HD
 
-## Notes
+## GM Rule changes
 ### Race
 * Earthbound Pony: +2 Constitution, +2 Strength, -2 Dexterity
 * Pegasi Pony: +2 Dexterity, +2 Wisdom, and -2 Strength
 * Unicorn Pony: +2 Charisma, +2 Intelligence, and -2 Dexterity
+
 ### Equipment
 * Shield wielded attatched to the leg by earthbound and pegasi 
-** Dex-based checks are reduced by the Base AC bonus
-** Masterwork reduces the penalty by one, so a shield with 2 AC would only cause -1 to dex-based checks.
+  * Dex-based checks are reduced by the Base AC bonus
+  * Masterwork reduces the penalty by one, so a shield with 2 AC would only cause -1 to dex-based checks.
 
 
 
