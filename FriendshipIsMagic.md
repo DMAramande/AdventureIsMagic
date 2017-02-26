@@ -5,7 +5,7 @@
 * Other Races: https://ponyfinder-age-of-adventure.obsidianportal.com/wiki_pages/other-races
 * Other Racial feats: https://ponyfinder-age-of-adventure.obsidianportal.com/wiki_pages/other-racial-feats
 
-Same rules as Spriter's
+## Starting rules
 * Level 5
 * 25 point buy
 * 20000g starting gold
@@ -71,6 +71,7 @@ The world of Canterlot has seen a lot of strife in its time. For many years it w
 * Luna [CG]
 * Cadance [NG]
 * Starswirl [N]
+
 ### Gods considered evil
 * Nightmare [LE]
 * Chrysalis [NE]
