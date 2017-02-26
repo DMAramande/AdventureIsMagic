@@ -23,8 +23,7 @@ Same rules as Spriter's
   * Masterwork reduces the penalty by one, so a shield with 2 AC would only cause -1 to dex-based checks.
 
 
-
-## Backstory of the land
+### Backstory of Equestria
 The world of Canterlot has seen a lot of strife in its time. For many years it was protected diligently by the six bearers of Harmony: Twilight Sparkle, Applejack, Rarity, Rainbow Dash, Fluttershy and Pinkie Pie. This was done under the leadership of the three Alicorns, Celestia, Luna and Cadance, that at the time was ruling over equestria. Ever since the alicorns transcended into true gods, the six former heroes of Equestria has had to take their place. The six ponies have taken up residence in Canterlot, serving as the ruling council of Canterlot. They each have a bigger city which they oversee personally as its warden and can often be seen there on routine visits. With the leadership of the country and other royal duties, the six ponies has not been able to keep up with the evil taking root in the shadows. 
 
 ## Religion
@@ -40,17 +39,17 @@ Discord [CE]
 Tirek [CE]
 
 ### Paragons
-#### [Celestia]
+#### Follower of Celestia
 * Twilight Sparkle - Warden of Canterlot
 * Applejack - Warden of Ponyville
 
-#### [Cadance]
+#### Follower of Cadance
 * Rarity - Warden of Crystal Empire
 
-#### [Luna]
+#### Follower Luna
 * Rainbow Dash - Warden of Cloudsdale
 
-#### [Discord]
+#### Follower of Discord
 * Fluttershy - Warden of Tartarus
 * Pinkie Pie - Warden of Las Pegasus
 
