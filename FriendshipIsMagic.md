@@ -34,6 +34,7 @@
 * Fillydelphia
 * Trottingham
 * Las Pegasus (Requires flying)
+* Cloudsdale (Requires flying)
 * Baltimare
 * Fluttervalley (Flutterpony startingpoint)
 * Tartarus (Unavailable as starting point, unless escaped prisoner)
