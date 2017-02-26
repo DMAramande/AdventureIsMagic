@@ -1,7 +1,9 @@
 # Friendship is Magic
 
-* Race:  http://www.d20pfsrd.com/races/3rd-party-races/silver-games/ponykind/
-* Racial feats: https://ponyfinder-age-of-adventure.obsidianportal.com/wikis/ponykind-feats
+* Pony Race:  https://ponyfinder-age-of-adventure.obsidianportal.com/wiki_pages/ponykind-races
+* Pony Racial feats: https://ponyfinder-age-of-adventure.obsidianportal.com/wiki_pages/ponykind-feats
+* Other Races: https://ponyfinder-age-of-adventure.obsidianportal.com/wiki_pages/other-races
+* Other Racial feats: https://ponyfinder-age-of-adventure.obsidianportal.com/wiki_pages/other-racial-feats
 
 Same rules as Spriter's
 * Level 5
