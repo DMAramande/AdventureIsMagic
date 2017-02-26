@@ -37,6 +37,7 @@ Same rules as Spriter's
 * Baltimare
 * Fluttervalley (Flutterpony startingpoint)
 * Tartarus (Unavailable as starting point, unless escaped prisoner)
+
 ### Towns
 * Appleloosa
 * Dodge Junction
@@ -47,12 +48,14 @@ Same rules as Spriter's
 * Tall Tale
 * Breezie Village
 * Seaward Shoals (Sea Horse startingpoint)
+
 ### Sights
 * Ghastly Gorge
 * Dragon Lands
 * Winsome Falls
 * Tenochtitlan Basin (pronounced Tenosh-titlan)
 * Smokey Mountains
+
 ### Forests
 * White Tail Woods
 * Everfree Forest
@@ -64,15 +67,15 @@ The world of Canterlot has seen a lot of strife in its time. For many years it w
 
 ## Religion
 ### Gods considered good
-Celestia [LG]
-Luna [CG]
-Cadance [NG]
-Starswirl [N]
+* Celestia [LG]
+* Luna [CG]
+* Cadance [NG]
+* Starswirl [N]
 ### Gods considered evil
-Nightmare [LE]
-Chrysalis [NE]
-Discord [CE]
-Tirek [CE]
+* Nightmare [LE]
+* Chrysalis [NE]
+* Discord [CE]
+* Tirek [CE]
 
 ### Paragons
 #### Follower of Celestia
