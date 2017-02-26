@@ -50,16 +50,18 @@
 * Breezie Village (Unavailable as startingpoint)
 * Seaward Shoals (Sea Horse startingpoint)
 
-### Sights
+### Sights (Monster locations)
 * Ghastly Gorge
-* Dragon Lands
+* Dragon Lands 
 * Winsome Falls
 * Tenochtitlan Basin (pronounced Tenosh-titlan)
 * Smokey Mountains
 
-### Forests
+### Forests (Woodland creature locations)
 * White Tail Woods
 * Everfree Forest
+
+### Swamps (Wetland creature locations)
 * Froggy Bottom Bogg
 * Flame Geyser Swamp
 
